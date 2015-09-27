@@ -1,7 +1,7 @@
 <?php
 /**
  * 信息验证模型基础类
- * @author theqing
+ * @author zuitu@foxmail.com
  * @date 2013.01.02
  */
 class Validate {
